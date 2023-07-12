@@ -1,0 +1,26 @@
+Business Problem: 
+Mengetahui ciri-ciri high performer listing
+
+Benefit:
+- hemat biaya
+- potensi growth revenue lebih tinggi
+
+Business Question: 
+bagaimana ciri-ciri high performer listing?
+- based on location
+ * Dimana kota yang paling banyak memiliki high performer listing?
+ * berdasarkan map, apa yang menyebabkan listing tersebut menjadi highperformer?
+- based on price
+ * apakah traveler sentitif terhadap harga?
+- based on type penginapan
+ * tipe penginapan apa yang paling memiliki high performer listing?
+- based on facilities
+ * fasilitas apa yang paling di tonjolkan oleh highperformer listing?
+- based on listing capabilities
+ * bagaimanakah rating score dari highperformer listing?
+- based on host capabilites
+ * bagaimana kah host score dari high performer?
+
+solution:
+- airbnb perlu mencari calon listing yang memiliki ciri-ciri sama dengan high performer listing
+- airbnb perlu melakukan konversi dari normal performer menjadi high performer (next analysis to map the most potential listing)
