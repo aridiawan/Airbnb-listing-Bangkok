@@ -1,4 +1,4 @@
-Airbnb Listings Bangkok Project
+Airbnb Bangkok Business Development Project Analysis
 ==============================
 Introduction
 -------------
@@ -29,5 +29,10 @@ Project Organization
     │
     └── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
                               generated with `pip freeze > requirements.txt`
+
+Tableau Story
+------------
+This project also visualize using tableau story, here:
+https://public.tableau.com/app/profile/hermawan4163/viz/AirbnbListingsBangkok-PropertyPerformances/AirBNBBangkok-Story?publish=yes
 
 --------
